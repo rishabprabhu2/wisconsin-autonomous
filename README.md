@@ -4,6 +4,9 @@ The methods I used to build this program was color detection using HSV color spa
 
 A technique that I tried for this program that wasn't effective was drawing lines between consecutive centroids, which assumed that all the cones were placed in a perfectly straight line. This didn't work as well because the cones were not placed in a linear path, so the line wasn't able to go through every cone.
 
-The libraries that I used in this program are OpenCV and NumPy. 
+The libraries that I used in this program are OpenCV and NumPy.
 
+
+Answer.png:
+![answer_clustering](https://github.com/user-attachments/assets/f527a9e5-188e-475d-a2ec-34f503c40221)
 
